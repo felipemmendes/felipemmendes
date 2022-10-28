@@ -1,16 +1,35 @@
-### Hi there 👋
+### felipe mendes
 
-<!--
-**felipemmendes/felipemmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a javascript/typescript developer, focused on web development.
 
-Here are some ideas to get you started:
+## js/ts web environment:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### [react](https://reactjs.org/)
+    - [remix](https://remix.run/)
+    - [nextjs](https://nextjs.org/)
+
+- ### [vue.js](https://vuejs.org/)
+
+- ### [jquery](https://jquery.com/)
+
+- ### [node](https://nodejs.org/en/)
+    - [express](https://expressjs.com/)
+    - [socket.io](https://socket.io/)
+
+- ### styling
+  - [tailwindcss](https://tailwindcss.com/)
+  - [styled-components](https://styled-components.com/)
+  - [sass](https://sass-lang.com/) and [less](https://lesscss.org/) preprocessors
+
+- ### testing with
+  - [cypress](https://www.cypress.io/)
+  - [vitest](https://vitest.dev/)
+
+***
+
+## other languages and frameworks
+
+- ### [elixir](https://elixir-lang.org/)
+    i really liked learning and i'm sure to develop more apps using it
+
+  - [pheonix](https://www.phoenixframework.org/)
